@@ -67,7 +67,7 @@ Se implementaron diferentes Directivas de Grupo para reforzar la seguridad y est
 
 Entre las principales políticas configuradas se incluyen:
 
--- Restricción de acceso al Panel de control.
+- Restricción de acceso al Panel de control.
 - Bloqueo del Editor del Registro.
 - Restricción del uso de PowerShell y determinadas aplicaciones.
 - Configuración de la política de contraseñas del dominio.
